@@ -1,5 +1,4 @@
 # FFMPEG_Server_Client_Project
-
 The server simply sends the .ts video stream packets over the network socket, which the client reads and stores in the output_file.
 The key steps are:
 1) Creating an output file to store the video stream.
